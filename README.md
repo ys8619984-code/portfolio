@@ -136,7 +136,7 @@ I am an undergraduate student specializing in Machine Learning, Artificial Intel
 - Built an automated lead scoring model using ML to prioritize high-intent prospects, improving conversion rates.
 - Created an intelligent chatbot for instant customer support, reducing response times by 60%.
 - Engineered a centralized data dashboard to visualize KPIs and team performance for management.
-- *Update this placeholder with your exact company internships, roles, and accomplishments.*
+
 
 ---
 
